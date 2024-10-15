@@ -44,16 +44,16 @@ const HeaderPage = () => {
           <div className="w-1/2 flex justify-center items-center">
             <ul className="text-white text-sm font-bold uppercase flex gap-x-8">
               <li>
-                <a href="">Home</a>
+                <a href="/">Home</a>
               </li>
               <li>
-                <a href="">Reservation</a>
+                <a href="/date-reservation">Reservation</a>
               </li>
               <li>
                 <a href="">Service</a>
               </li>
               <li>
-                <a href="">Terms</a>
+                <a href="/terms">Terms</a>
               </li>
               <li>
                 <a href="">About Us</a>
