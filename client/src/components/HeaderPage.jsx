@@ -50,7 +50,7 @@ const HeaderPage = () => {
                 <a href="/date-reservation">Reservation</a>
               </li>
               <li>
-                <a href="">Service</a>
+                <a href="/service">Service</a>
               </li>
               <li>
                 <a href="/terms">Terms</a>
