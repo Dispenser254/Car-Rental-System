@@ -56,10 +56,10 @@ const HeaderPage = () => {
                 <a href="/terms">Terms</a>
               </li>
               <li>
-                <a href="">About Us</a>
+                <a href="/about-us">About Us</a>
               </li>
               <li>
-                <a href="">Contact Us</a>
+                <a href="/contact-us">Contact Us</a>
               </li>
             </ul>
           </div>

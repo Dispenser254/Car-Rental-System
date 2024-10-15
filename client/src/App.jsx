@@ -5,6 +5,7 @@ import HomePage from "./pages/HomePage";
 import DateReservation from "./pages/DateReservation";
 import Terms from "./pages/Terms";
 import Service from "./pages/Service";
+import AboutUs from "./pages/AboutUs";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <Route path="/date-reservation" element={<DateReservation />} />
         <Route path="/terms" element={<Terms />} />
         <Route path="/service" element={<Service />} />
+        <Route path="/about-us" element={<AboutUs />} />
       </Routes>
       <ToastContainer />
     </BrowserRouter>
